@@ -1,7 +1,7 @@
 import React from "react";
 
 function ChatPage() {
-  return <div></div>;
+  return <div>asd</div>;
 }
 
 export default ChatPage;
