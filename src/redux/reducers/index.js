@@ -1,3 +1,10 @@
-import { CombinedState } from "redux";
-import { configureStore } from "@reduxjs/toolkit";
-import moduleName from "module";
+import { combineReducers } from "redux";
+// import user from "./user_reducer";
+// import chatRoom from "./chatRoom_reducer";
+
+const rootReducer = combineReducers({
+  //   user,
+  //   chatRoom,
+});
+
+export default rootReducer;

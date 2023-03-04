@@ -3,32 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-=======
-    "@reduxjs/toolkit": "^1.9.2",
->>>>>>> 9d0b75567a75d36222ae13120b83cc8e76cb0ca2
+    "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "pnpm": "^7.28.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
+    "react-hook-form": "^7.43.4",
     "react-redux": "^8.0.5",
-=======
->>>>>>> 9d0b75567a75d36222ae13120b83cc8e76cb0ca2
     "react-router-dom": "^6.8.0",
     "react-scripts": "5.0.1",
     "redux": "^4.2.1",
     "redux-promise": "^0.6.0",
     "redux-thunk": "^2.4.2",
-<<<<<<< HEAD
-=======
-    "react-router-dom": "^6.8.0",
-    "react-scripts": "5.0.1",
->>>>>>> b5f3202813f4c7d20e95f11777f5f6148d43f27e
-=======
->>>>>>> 9d0b75567a75d36222ae13120b83cc8e76cb0ca2
     "web-vitals": "^2.1.4"
   },
   "scripts": {
